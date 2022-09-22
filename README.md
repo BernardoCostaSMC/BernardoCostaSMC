@@ -3,8 +3,7 @@
 ### About me 
 + 🎓 Bacharelor's Degree in progress - Computer Science (2/8).
 + 📊 Currently studying and challenging myself in Front-end development
-+ 🧰 
-+ 💜 
++ 🧰 Constantly looking for innovative and criative technologies to become a better person and improve my work
 + 👥Team Player and Problem Solver 
 + 📍 Minas Gerais, Brazil 
 
