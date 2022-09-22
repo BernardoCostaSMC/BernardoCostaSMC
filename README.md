@@ -1,4 +1,4 @@
-## Hello I'm Viviane, be welcome to my profile ! 
+## Hello I'm Bernardo, be welcome to my profile ! 
 
 ### About me 
 + 🎓 Bacharelor's Degree in progress - Computer Science (2/8).
