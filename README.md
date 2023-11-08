@@ -1,7 +1,7 @@
 ## Hello I'm Bernardo, be welcome to my profile ! 
 
 ### About me 
-+ 🎓 Bacharelor's Degree in progress - Computer Science (2/8).
++ 🎓 Bacharelor's Degree in progress - Computer Science (4/8).
 + 📊 Currently studying and challenging myself in Front-end development
 + 🧰 Constantly looking for innovative and criative technologies to become a better person and improve my work
 + 👥Team Player and Problem Solver 
@@ -19,7 +19,7 @@
 ### Skills
 
 <div style="display:flex">
-  <img align="center" alt="Vivi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Vivi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="Vivi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vivi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vivi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
