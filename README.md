@@ -1,4 +1,4 @@
-## Hello I'm Bernardo, be welcome to my profile ! 
+## Hello I'm Bernardo, be welcome to my profile! 
 
 ### About me 
 + 🎓 Bacharelor's Degree - Computer Science.
