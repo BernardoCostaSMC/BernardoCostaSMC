@@ -1,7 +1,7 @@
 ## Hello I'm Bernardo, be welcome to my profile ! 
 
 ### About me 
-+ 🎓 Bacharelor's Degree in progress - Computer Science (4/8).
++ 🎓 Bacharelor's Degree - Computer Science.
 + 📊 Currently studying and challenging myself in Front-end development
 + 🧰 Constantly looking for innovative and criative technologies to become a better person and improve my work
 + 👥Team Player and Problem Solver 
